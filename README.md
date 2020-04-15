@@ -1,2 +1,2 @@
 # java-test
-java练习demo项目
+demo项目
